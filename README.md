@@ -8,3 +8,6 @@ Work on Termux && Kali-linux
 
 
 <a href='https://postimg.cc/G8gbYYkb' target='_blank'><img src='https://i.postimg.cc/G8gbYYkb/Screenshot-20200821-033432.jpg' border='0' alt='Screenshot-20200821-033432'/></a>
+
+
+[url=https://postimages.org/][img]https://i.postimg.cc/DzTcSq4B/FB-IMG-1597975255371.jpg[/img][/url]
