@@ -1,5 +1,5 @@
 git clone https://github.com/D3m0ni4k/D3m0ni4kTools.sh.git
-
+cd D3m0ni4kTools.sh
 chmod +x D3m0ni4kTools.sh
 
 bash D3m0ni4kTools.sh
